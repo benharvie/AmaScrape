@@ -1,4 +1,4 @@
-# Project #3 Brief
+# AmaScrape Brief
 
 ## Summary
 Full-stack application (Java/React) that allows users to search across Amazon’s multiple international websites to compare prices on searched products. It will allow the user to compare prices between countries and how much money they could potentially save.
